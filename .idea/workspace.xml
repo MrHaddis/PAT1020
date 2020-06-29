@@ -11,7 +11,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e55ab6-6c16-4253-9cfa-0e7f58414dde" name="Default Changelist" comment="" />
+    <list default="true" id="76e55ab6-6c16-4253-9cfa-0e7f58414dde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1020.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1020.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1020.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1020.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1020.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1020.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PAT1020.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PAT1020.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,13 +29,18 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dky2f4DSft8yBCCuuWQW8LNbxF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -146,6 +159,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592983179542</updated>
       <workItem from="1592983181467" duration="1355000" />
+      <workItem from="1593307549966" duration="4022000" />
+      <workItem from="1593396312627" duration="9866000" />
     </task>
     <servers />
   </component>
@@ -153,21 +168,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1592985487129">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1593419130966">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592985487129" />
-    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1592985487129">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593419130966" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1593419130966">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592985487129" />
-    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1592985487129">
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593419130966" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1593419130966">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592985487129" />
-    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1592985487129">
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593419130966" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1593419130966">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592985487129" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593419130966" />
+    <state width="1877" height="330" key="GridCell.Tab.1.bottom" timestamp="1593419100017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593419100017" />
+    <state width="1877" height="330" key="GridCell.Tab.1.center" timestamp="1593419100017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593419100017" />
+    <state width="1877" height="330" key="GridCell.Tab.1.left" timestamp="1593419100017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593419100017" />
+    <state width="1877" height="330" key="GridCell.Tab.1.right" timestamp="1593419100017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593419100017" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1593400006674">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593400006674" />
   </component>
 </project>
